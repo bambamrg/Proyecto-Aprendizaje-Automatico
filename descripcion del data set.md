@@ -4,6 +4,8 @@ Base de microdatos sobre hechos y víctimas de suicidios en la República Argent
 
 Nombre del dataset: SAT-SS-BU_2017-2022
 
+Formato: xlxs
+
 Cantidad de instancias y caracteristicas: consta de 21719 instancias y 23 características.
 Tipo de datos: integer, string, date.
 
