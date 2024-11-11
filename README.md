@@ -1,5 +1,5 @@
-# Proyecto-Aprendizaje-Automatico
-Trabajo parcial de Aprendizaje Automatico 2024
+# Proyecto Aprendizaje Automatico
+### Trabajo parcial de Aprendizaje Automatico 2024
 
 Alumno: Aranda, Iván Gabriel
 
