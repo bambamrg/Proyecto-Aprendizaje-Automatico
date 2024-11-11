@@ -22,9 +22,11 @@ Metodología
 El modelo se entrenará utilizando un conjunto de datos históricos sobre suicidios en la región, disponible en el siguiente enlace: [Dataset sobre Suicidios](https://datos.gob.ar/dataset/seguridad-suicidios-sistema-alerta-temprana-estadisticas-criminales-republica-argentina/archivo/seguridad_8.1).
 
 Resultados Esperados
+
 Se espera que los resultados del modelo ayuden a las autoridades y profesionales de la salud a identificar grupos en riesgo, permitiendo así el diseño de intervenciones específicas y efectivas para prevenir el suicidio. Además, se busca contribuir al conocimiento sobre el comportamiento suicida en contextos específicos, lo que puede ser útil para futuras investigaciones y políticas públicas.
 
 Fuentes:
+
 https://www.redalyc.org/journal/2738/273862538011/html/
 https://www1.hospitalitaliano.org.ar/multimedia/archivos/noticias_attachs/47/documentos/117893_191-198-5-2-20-Brienza-B.pdf
 https://www.elsevier.es/es-revista-revista-medica-clinica-las-condes-202-articulo-evaluacion-del-riesgo-suicidio-enfoque-S0716864012703553
